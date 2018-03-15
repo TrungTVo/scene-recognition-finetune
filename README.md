@@ -9,3 +9,8 @@ Dataset:
 ## Training model
 - Follow different Pytorch pretrained models in this link: http://pytorch.org/docs/master/torchvision/models.html
 - Transfer learning tutorial using Pytorch can be found at: http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+
+## Usage
+```
+python fine_tune.py
+```
